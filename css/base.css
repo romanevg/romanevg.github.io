@@ -1,0 +1,12 @@
+@import 'var.css';
+
+body {
+    display: grid;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 12px;
+    color: var(--grey);
+}
+
+h1 {
+    font-size: 2rem;
+}
